@@ -1,5 +1,8 @@
 _repo: Palace-and-Mosque-at-Ukhaidir-A-Study-in-Early-Mohammadan-Architecture_51664
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51664-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Gertrude Lowthian
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46514
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51664#Palace-and-Mosque-at-Ukhaidir-A-Study-in-Early-Mohammadan-Architecture
 gutenberg_issued: '2016-04-05'
 gutenberg_type: Text
 identifiers:
