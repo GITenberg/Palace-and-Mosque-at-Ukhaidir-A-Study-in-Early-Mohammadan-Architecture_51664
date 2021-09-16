@@ -1,0 +1,29 @@
+_repo: Palace-and-Mosque-at-Ukhaidir-A-Study-in-Early-Mohammadan-Architecture_51664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Gertrude Lowthian
+    alias: Bell, Gertrude Margaret Lowthian
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '46514'
+    url: http://www.gutenberg.org/2009/agents/46514
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
+description: ''
+gutenberg_issued: '2016-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51664'
+  lccn: '14012422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ukheidar'
+- !lcsh 'Mosques'
+- !lcsh 'Iraq -- Antiquities'
+- !lcc 'NA'
+- GITenberg
+title: 'Palace and Mosque at Ukhaidir: A Study in Early Mohammadan Architecture'
+url: http://www.gutenberg.org/ebooks/51664
